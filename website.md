@@ -1,4 +1,6 @@
-# Recipe Analysis Project
+# Is it Worth Making Long Recipes?
+
+Dylan Pham (dpham@umich.edu), Andrew Lezaja (alezaja@umich.edu)
 
 ## Introduction
 
